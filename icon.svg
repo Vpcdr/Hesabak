@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200"><rect width="1200" height="1200" rx="220" fill="#F6F0E2"/><g transform="translate(0,200)">
   <!-- Background transparent -->
   <g>
     <!-- H - dark with very thin white border -->
@@ -11,4 +11,4 @@
     <!-- clean cut for e opening -->
     <rect x="700" y="340" width="20" height="60" fill="#0A2438" opacity="0"/>
   </g>
-</svg>
+</g></svg>
