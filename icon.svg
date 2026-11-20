@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="96" fill="#0f766e"/><text x="256" y="330" font-size="260" text-anchor="middle" fill="#fff" font-family="Tahoma,sans-serif">ح</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <!-- Background transparent -->
+  <g>
+    <!-- H - dark with very thin white border -->
+    <rect x="455" y="210" width="42" height="380" fill="#0A2438" stroke="#FFFFFF" stroke-width="1.5"/>
+    <rect x="703" y="210" width="42" height="380" fill="#0A2438" stroke="#FFFFFF" stroke-width="1.5"/>
+
+    <!-- e - gold -->
+    <path d="M 700 380 A 155 155 0 1 0 610 540" fill="none" stroke="#C9A86A" stroke-width="42" stroke-linecap="butt"/>
+    <rect x="512" y="359" width="210" height="40" fill="#C9A86A"/>
+    <!-- clean cut for e opening -->
+    <rect x="700" y="340" width="20" height="60" fill="#0A2438" opacity="0"/>
+  </g>
+</svg>
